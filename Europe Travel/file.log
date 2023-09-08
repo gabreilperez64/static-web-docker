@@ -1,0 +1,42 @@
+cat file.log
+commit 4d57918148833cb02d74949938139636ef3790fb (HEAD -> main, origin/main, origin/HEAD)
+Author: Gabriel Perez <gabreilperez@gmail.com>
+Date:   Fri Sep 8 19:53:09 2023 +0000
+
+    Final version of GCP Project
+
+commit 3823c48de3c5e53db1cd5f6134b5f995c4c156fd
+Author: G.Niruthian <g.niruthian15@gmail.com>
+Date:   Mon Jan 3 18:37:55 2022 +0530
+
+    Update README.md
+
+commit b2d2b22ccdc2b238598beb9106f56a4880c67442
+Author: G.Niruthian <g.niruthian15@gmail.com>
+Date:   Sun Jan 2 17:29:11 2022 +0530
+
+    Update README.md
+
+commit e07bf38a78a13e4be4832feec4b067e7d6025ff9
+Author: G.Niruthian <g.niruthian15@gmail.com>
+Date:   Sun Jan 2 17:28:49 2022 +0530
+
+    Update README.md
+
+commit 0397996694f5f194c10aff29fb69dc281db3a751
+Author: G.Niruthian <88297426+GNiruthian@users.noreply.github.com>
+Date:   Sat Nov 27 07:49:17 2021 +0530
+
+    Create README.md
+
+commit c1b8f7e7966f212a7ce1fa24e9c721e0168d8047
+Author: G.Niruthian <88297426+GNiruthian@users.noreply.github.com>
+Date:   Sat Oct 30 06:48:24 2021 +0530
+
+    Add files via upload
+
+commit 3dc4c027ccfc6224789c94baa0928a2768846a71
+Author: G.Niruthian <88297426+GNiruthian@users.noreply.github.com>
+Date:   Sat Oct 30 06:32:17 2021 +0530
+
+    Initial commit
